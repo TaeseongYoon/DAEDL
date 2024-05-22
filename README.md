@@ -1,2 +1,2 @@
 # Uncertainty Estimation by Density Aware Evidential Deep Learning
-Pytorch implementation for "[Uncertainty Estimation by Density Aware Evidential Deep Learning](paper link)", 
+This repo contains an official PyTorch implementation for the paper "Uncertainty Estimation by Density Aware Evidential Deep Learning" in ICML 2024.
